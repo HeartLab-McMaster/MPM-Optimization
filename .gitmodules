@@ -1,0 +1,3 @@
+[submodule "magneticMPM"]
+	path = magneticMPM
+	url = https://github.com/HeartLab-McMaster/magneticMPM.git
