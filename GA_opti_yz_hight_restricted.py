@@ -21,6 +21,7 @@ import cma
 import numpy as np
 from cma.constraints_handler import BoundTransform
 import random
+import csv
 
 
 def init(l):
